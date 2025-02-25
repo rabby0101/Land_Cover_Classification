@@ -47,7 +47,7 @@ The classification incorporates the following spectral indices:
 3. Training data collection for each class
 4. Random Forest classifier training
 5. Image classification
-6. Area calculation and statistics
+6. Area calculation and statistics(Not Implemented)
 7. Visualization and export
 
 ## Usage
