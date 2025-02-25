@@ -1,4 +1,4 @@
-# Bayern Land Use Land Cover (LULC) Classification
+# Bayern Land Cover Classification
 
 ## Project Overview
 
@@ -76,5 +76,8 @@ The classification produces:
 ## Export Options
 
 - GeoTIFF for use in desktop GIS software
+## Results
+
+<img width="1440" alt="Screenshot 2025-02-25 at 23 38 18" src="https://github.com/user-attachments/assets/87fb6141-0523-4b27-a2be-7b98fd7794c6" />
 
 
