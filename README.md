@@ -76,16 +76,5 @@ The classification produces:
 ## Export Options
 
 - GeoTIFF for use in desktop GIS software
-- PNG/JPEG for direct visualization
-- CSV of area statistics
 
-## Visualization
-
-The repository includes code for enhanced visualization directly in GEE, including:
-
-- Custom color palette for each class
-- Interactive legend
-- Scale bar
-- Title and description
-- North arrow
 
