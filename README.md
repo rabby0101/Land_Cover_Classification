@@ -9,8 +9,7 @@ This repository contains code and documentation for Land Use Land Cover (LULC) c
 - Automated processing of Sentinel-2 imagery for summer months
 - Calculation of multiple spectral indices (NDVI, NDWI, MNDWI, NDBI, BSI)
 - Random Forest classification with 100 trees
-- Area calculation for each land cover class
-- Interactive visualization with legend and map elements
+
 
 ## Land Cover Classes
 
@@ -28,7 +27,7 @@ The classification includes six primary land cover classes:
 ### Data Sources
 
 - **Imagery**: Sentinel-2 Level-2A Surface Reflectance (Harmonized)
-- **Time Period**: Summer 2024 (June 1 - August 15)
+- **Time Period**: Summer 2024 (June 15 - August 15)
 - **Cloud Filter**: Less than 10% cloud cover
 
 ### Spectral Indices
@@ -61,7 +60,7 @@ The classification incorporates the following spectral indices:
 ### Running the Classification
 
 1. Copy the script to the GEE Code Editor
-2. Define your study area (`study_area`)
+2. Define study area (`study_area.zip`)
 3. Collect training data for each class
 4. Run the classification
 5. View results and export as needed
