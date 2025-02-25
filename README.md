@@ -70,7 +70,7 @@ The classification incorporates the following spectral indices:
 The classification produces:
 
 - A classified image with six land cover classes
-- Area statistics for each class (in hectares)
+- Area statistics for each class (in hectares)(Not Implemented)
 - Visualizations with legend and map elements
 
 ## Export Options
